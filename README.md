@@ -8,7 +8,7 @@
 
 <!--github status from https://github.com/anuraghazra/github-readme-stats-->
 
-![Kaleab Shawel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaleabShawel&show_icons=true&theme=dark)
+![Kaleab Shawel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaleabShawel&show_icons=true&theme=merko)
 
 
 
